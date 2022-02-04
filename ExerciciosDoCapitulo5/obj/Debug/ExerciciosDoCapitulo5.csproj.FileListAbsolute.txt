@@ -1,0 +1,10 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\bin\Debug\ExerciciosDoCapitulo5.exe.config
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\bin\Debug\ExerciciosDoCapitulo5.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\bin\Debug\ExerciciosDoCapitulo5.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.Form1.resources
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.Properties.Resources.resources
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.csproj.GenerateResource.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Livro\C# e Orientação a Objetos Curso FN-13\ExerciciosDoCapitulo5\ExerciciosDoCapitulo5\obj\Debug\ExerciciosDoCapitulo5.pdb
